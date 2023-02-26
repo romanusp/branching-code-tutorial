@@ -1,5 +1,7 @@
 import shutil
 
+
+
 def disk_percent_usage(directory):
     '''
     Return percent of disk where directory resides
